@@ -6,6 +6,7 @@ An interactive educational platform where children learn mathematics by drawing 
 
 ## 🎯 Project Overview
 
+
 BloomingMath transforms traditional math learning into an engaging, interactive experience by combining:
 - **Custom MNIST Model**: 97.82% accuracy handwritten digit recognition
 - **Interactive Canvas**: Natural drawing interface for math problems
